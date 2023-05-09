@@ -18,8 +18,6 @@ Meu nome é Ana Paula Rodrigues 👋
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![Power Apps](https://img.shields.io/badge/-PowerApps-05122A?style=flat&logo=powerapps)&nbsp;
-![Power Automate](https://img.shields.io/badge/-PowerAutomate-05122A?style=flat&logo=powerautomate)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=azure)&nbsp;
