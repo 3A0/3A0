@@ -13,7 +13,7 @@
  
  <br>
  
-  ### Me siga no linkedIn!
+  ### Me siga no LinkedIn!
  
 <div> 
   
