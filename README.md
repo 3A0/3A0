@@ -27,7 +27,7 @@ Meu nome é Ana Paula Rodrigues 👋
 ## 📫 Social: 
 <a target="_blank" href="https://www.linkedin.com/in/anapaulaoliveirarodrigues/"> <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a target="_blank" href="mailto:anaprodrigues1803@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a> &nbsp;
-<a target="_blank" href="https://www.instagram.com/anaa.oliveiraaaa/"><img src="https://img.shields.io/badge/-@julianasallazar-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a target="_blank" href="https://www.instagram.com/anaa.oliveiraaaa/"><img src="https://img.shields.io/badge/-@anaa.oliveiraaaa-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
  
 <!--
 is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
